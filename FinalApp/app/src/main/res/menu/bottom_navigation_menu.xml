@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/btExchange"
+        android:enabled="true"
+        android:icon="@drawable/icon_1"
+        android:title="@string/Exchange"/>
+
+    <item
+        android:id="@+id/btDiscount"
+        android:enabled="true"
+        android:icon="@drawable/icon_3"
+        android:title="@string/Discount"/>
+
+</menu>
